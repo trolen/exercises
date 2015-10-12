@@ -1,2 +1,2 @@
 snowman: snowman.c
-	gcc -o snowman snowman.c
+	gcc -std=c99 -o snowman snowman.c
